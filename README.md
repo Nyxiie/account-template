@@ -6,3 +6,7 @@ Only Help :
   If u use Sellix.io just add / change products to ur stuff
   
 Use it have fun or whutever
+
+
+Preview: 
+![](https://cdn.discordapp.com/attachments/455885418101997569/932747179473403914/Unbenannt.png)
