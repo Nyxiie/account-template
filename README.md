@@ -1,12 +1,20 @@
 # Sellix.io / Shoppy.gg Template
-Please dont ask me about help or whutever. Didnt made it myseld dunno stole it from someone that again stole it from someone else e.t.c
+- [Sellix.io / Shoppy.gg Template](#sellixio--shoppygg-template)
+<div style="text-align: center;">
 
-Only Help :
-  If u use Shoppy.gg embed js from Shoppy , delete sellix.io and change everything as u like
-  If u use Sellix.io just add / change products to ur stuff
-  
-Use it have fun or whutever
+**Change your Product ID and the Logo**
+
+*Sellix.io Guide*
+
+*Dashboard -> Developers -> Embed Products -> Generate Code -> Your Product -> copy data-sellix-product="YOURID"*
+
+*Shoppy.gg Guide*
+
+*Dashboard -> Products -> All Products -> Copy Code under Product name
+
 
 
 Preview: 
-![](https://cdn.discordapp.com/attachments/455885418101997569/932747179473403914/Unbenannt.png)
+</div>
+
+![](https://i.imgur.com/vTT5hU0.png)
